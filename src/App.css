@@ -50,3 +50,7 @@ table {
 body {
     font-family: 'Poppins';
 }
+
+.container {
+    display: flex;
+}
